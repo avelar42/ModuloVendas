@@ -1,0 +1,12 @@
+E:\ModuloVendas\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.deps.json
+E:\ModuloVendas\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.dll
+E:\ModuloVendas\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Data.pdb
+E:\ModuloVendas\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+E:\ModuloVendas\src\StoreOfBuild.Data\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csprojAssemblyReference.cache
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CoreCompileInputs.cache
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfoInputs.cache
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.AssemblyInfo.cs
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.csproj.CopyComplete
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.dll
+E:\ModuloVendas\src\StoreOfBuild.Data\obj\Debug\netstandard2.0\StoreOfBuild.Data.pdb

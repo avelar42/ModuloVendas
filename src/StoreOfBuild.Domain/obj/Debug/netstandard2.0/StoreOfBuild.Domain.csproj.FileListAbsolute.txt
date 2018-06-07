@@ -1,0 +1,9 @@
+E:\ModuloVendas\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.deps.json
+E:\ModuloVendas\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+E:\ModuloVendas\src\StoreOfBuild.Domain\bin\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csprojAssemblyReference.cache
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.csproj.CoreCompileInputs.cache
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfoInputs.cache
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.AssemblyInfo.cs
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.dll
+E:\ModuloVendas\src\StoreOfBuild.Domain\obj\Debug\netstandard2.0\StoreOfBuild.Domain.pdb
